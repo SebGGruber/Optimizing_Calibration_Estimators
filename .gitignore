@@ -1,0 +1,6 @@
+results/simulations/
+__pycache__/
+.ipynb_checkpoints/
+logits/
+logits_old/
+logits-20250107T131832Z-001.zip
